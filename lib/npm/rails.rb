@@ -1,0 +1,7 @@
+require 'npm/rails/version'
+require 'npm/rails/railtie'
+require 'npm/rails/package_bundler'
+require 'npm/rails/package_manager'
+require 'npm/rails/errors'
+require 'npm/rails/package_file_parser'
+require 'npm/rails/package'
